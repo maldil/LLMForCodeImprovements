@@ -1,0 +1,478 @@
+Use diamond operator,29
+Use enhanced for loop,24
+Use meaningful variable names,12
+Use try-with-resources,12
+Use isEmpty() method,9
+Extract common logic into a separate method,9
+Use foreach loop,7
+Extract code into separate method,6
+Use descriptive variable names,5
+Use enhanced for loop instead of traditional for loop,5
+Extract code into separate methods,5
+Use more descriptive variable names,4
+Use enhanced for loop instead of iterator,4
+Use StringBuilder for string concatenation,4
+Use containsKey() instead of null check,3
+Add comments,3
+Use isEmpty() instead of null check,3
+Use a more descriptive variable name,3
+Use entrySet() instead of keySet(),3
+Use meaningful variable name,3
+Use more meaningful variable names,3
+Improve variable names,3
+Reduce code duplication,3
+Use try-with-resources for file operations,3
+Extract code blocks into separate methods,2
+Use try-with-resources for file handling,2
+Avoid unnecessary list comparison,2
+Remove unnecessary imports,2
+Improve variable naming,2
+Use method reference,2
+Use enhanced for loop instead of for loop with index,2
+Use isEmpty() method instead of checking size,2
+Use StringBuilder for concatenation,2
+Extract common code into separate methods,2
+Use StringBuilder.append() for concatenation,2
+Use foreach loop instead of for loop,2
+Handle exceptions properly,2
+Use method references instead of lambda expressions,2
+Use generics for List and expr,2
+Use enhanced for loop to iterate over HashMap,2
+Use conditional expression,2
+Extract common logic to a separate method,2
+Use switch statement,2
+Use containsKey() method,2
+Simplify condition check,2
+Use enhanced for-loop,2
+Use a foreach loop instead of an indexed loop,2
+Add comments to explain the purpose of the code,2
+Use isEmpty() instead of !isEmpty(),2
+Remove unused variables,2
+Use polymorphism,2
+Avoid unnecessary type casting,2
+Use StringBuilder instead of String concatenation,2
+Use HashMap or LinkedHashMap instead of ArrayList for heightsM and heightsN,1
+Use constant for parameter type,1
+Use iterator.remove() instead of ArrayList.remove(),1
+Extract duplicate code into a separate method,1
+Replace hardcoded constants with named constants,1
+Use enhanced for loop instead of regular for loop,1
+Extract methods to adjust return nodes and control edges.,1
+Rename 'myPair' to 'currentPair' for clarity,1
+Use the try-with-resources statement for InputStream,1
+Use enum constants for property values,1
+Remove unused 'stream_retval' variable,1
+Remove unnecessary statement 'a[key] = a[key] + 2',1
+Extract method to get meta information,1
+Use iterator to remove elements from a collection while iterating,1
+Avoid direct field access,1
+Avoid instanceof checks for each internalFunc type,1
+1. Extract code duplication into a method,1
+Assign label using a constant instead of String.valueOf,1
+Extract code block into a separate method,1
+Use lambda expression in stream filter,1
+Improve error handling,1
+Consistent indentation,1
+Check for null using Optional,1
+Use try-with-resources statement for RevWalk,1
+Check if edge already exists before creating a new edge,1
+Extract method to build PDG for each argument.,1
+Move the repeated string check outside the loop,1
+Refactor variable names for clarity,1
+Extract complex conditions into separate methods,1
+4. Use constant for initial beforeFirstChange value,1
+Preallocate HashSet initial capacity,1
+2. Remove unnecessary if statement,1
+Use a more descriptive variable name for the dependency edges,1
+Use a more appropriate data structure for the blocking queue,1
+Use Iterator to remove elements from ArrayList,1
+Use a more appropriate exception for rejecting an execution,1
+Avoid unnecessary ArrayList creation,1
+Move the Math.sqrt() call outside the loop,1
+Rename constructor for clarity,1
+Handle nested Tuple case,1
+Extract common code into reusable methods,1
+Use a switch statement instead of multiple if-else statements,1
+Use lambda expression instead of for loop,1
+Extract method to get CSV line,1
+2. Simplify condition checks,1
+Use 'collect' instead of multiple 'forEach' statements,1
+Close the input stream using try-with-resources,1
+Use entrySet iteration,1
+Use try-with-resources to automatically close resources,1
+Use a more descriptive variable name for 'number_of_freq',1
+Handle potential NullPointerException,1
+Avoid repeated method calls,1
+Remove unused code,1
+Replace 'List.addAll' with Stream operations,1
+Extract duplicated code into a separate method,1
+Use enhanced for-loop instead of traditional for-loop,1
+Use TimeUnit constant for maxBlockingTimeUnit,1
+Use explicit import statements,1
+Use specific interface instead of HashMap,1
+5. Use constant for initial afterFirstChange value,1
+Simplify conditions for returning true,1
+Use containsKey() instead of retainAll(),1
+Move the 'allowCoreThreadTimeOut' method call before the call to 'super' constructor,1
+Replace magic numbers with named constants,1
+Refactor code duplication,1
+Extract stream sorting and filtering into a separate method,1
+1. Use enhanced for loop instead of traditional for loop,1
+Extract method for processing names,1
+Use a constant for the output directory path,1
+Remove unnecessary else block,1
+Use of Switch Statement,1
+Replace raw types with generic types,1
+Use removeIf method instead of manual removal,1
+Catch specific exception,1
+Remove unused variable 'root_0',1
+Use stream operations to simplify code,1
+Rename variables for clarity,1
+Use isEmpty() method instead of checking contains(null),1
+3. Fix incorrect index in 'valueTypes' calculation,1
+Combine the two nested for loops into one,1
+Use enhanced for loop for iterating over md.getInternalArgs().getInternalArgs().,1
+Extract codeM and codeN initialization into separate methods,1
+Use StringBuilder to construct the name string,1
+Avoid unnecessary intermediate sets,1
+Declare variable types with interfaces instead of concrete classes,1
+Extract code into a separate method,1
+Use a more meaningful variable name instead of 'synchronizer',1
+Simplify multiple stream operations,1
+Use variable for size of internalNameNodes,1
+Add proper error handling,1
+Remove unnecessary semicolon,1
+Use polymorphism instead of instanceof checks,1
+Improve code readability by using lambda expressions,1
+Use a foreach loop for merging graphs,1
+Extract method,1
+Avoid unnecessary variable creation,1
+Improve method naming,1
+Use explicit comparison for astNodeType,1
+Use parameterized types for type casting,1
+Avoid using null checks on array,1
+Combine if conditions for expandedM and expandedN,1
+Refactor method name,1
+Use diamond operator for generic types,1
+Use constructor injection for the instance variables,1
+Use interface instead of concrete class for variables,1
+1. Use enhanced for loop,1
+Use StringBuilder capacity initialization,1
+Improve parameter names,1
+Handle unrecognized characters gracefully,1
+Eliminate unnecessary method calls,1
+Initialize arrays at the time of declaration,1
+Use forEach() method,1
+Use switch statement for better readability,1
+Simplify loop,1
+Use a try-catch block instead of Try.of(),1
+Use initial capacity for HashMap,1
+Use Path instead of File for directory operations,1
+Avoid unnecessary reverse operation,1
+Use constant for string comparison,1
+Remove unused imports,1
+Extract repeated code into a separate method,1
+Replace get() and put() with compute(),1
+Simplify if conditions,1
+Use HashSet constructor with initial capacity,1
+Extract similarity calculation into separate method,1
+Use variable name conventions and improve readability.,1
+Remove unnecessary type casts,1
+Simplify condition for returning empty PDG,1
+Change variable name to be more descriptive,1
+Replace hardcoded values with constants,1
+Replace 'HashSet' with 'ArrayList',1
+Use try-with-resources to handle file resources,1
+Use method chaining for assigning fields,1
+4. Use enhanced for loop,1
+Move common condition check outside of if statement,1
+Extract code fragments into separate methods,1
+Extract magic numbers to constants,1
+Fix typo in import statement,1
+Add comments for clarity,1
+Use foreach loop instead of while loop,1
+Avoid unnecessary array usage,1
+Fix incorrect table id,1
+Use a switch statement instead of multiple if statements,1
+3. Replace lower-level types with higher-level types,1
+Clarify the purpose of the blockingTimeCallback,1
+Use foreach loop to iterate over files,1
+Use enhanced for loop instead of loop with index,1
+Combine two for loops into one,1
+Use explicit type declaration for ArrayLists,1
+Use isEmpty() method instead of comparing to an empty string,1
+Remove unnecessary assignment,1
+Replace magic number with a constant,1
+Use entrySet() instead of keySet() for iteration,1
+Use lambda expressions instead of streams,1
+Code Redundancy Elimination,1
+Use List interface instead of ArrayList for lM and lN,1
+Use lambda expression,1
+Use StringBuilder instead of concatenation in the loop,1
+Use a more meaningful variable name,1
+4. Use ArrayList instead of array for 'pgs',1
+Simplify conditions for returning false,1
+Avoid unnecessary conversions,1
+Avoid unnecessary null check,1
+Use HashMap.containsKey() method directly,1
+Extract common code into helper methods,1
+Use specific exception types,1
+Initialize ArrayList with initial capacity,1
+Avoid repetitive code by creating a method to check for changes in collections,1
+Add missing assignment statement,1
+Use labelLiterals.get(label) only once,1
+Extract duplicated stream sorting and filtering logic into a separate method,1
+Use specific type in ArrayList declarations,1
+Avoid redundant null check,1
+Extract while loop into separate method,1
+Use switch statement instead of multiple if-else blocks,1
+1. Use diamond operator,1
+Move logger instantiation to the beginning of the method,1
+Merge sequential data in a loop,1
+Replace nested if-else statements with switch statement,1
+Use enhanced for loop instead of while loop,1
+Initialize HashMap with initial capacity,1
+Remove redundant null check,1
+Combine the two for loops into a single loop,1
+Move addDefinitions method call outside the loop,1
+Extract common code for removing edges into a separate method,1
+Avoid unnecessary string concatenation in logging,1
+Optimize if-else conditions,1
+Reduce method chaining,1
+Extract code blocks into separate methods for better readability,1
+Optimize treeHeight.get() calls,1
+Rename 'ConcreatePythonParser' class,1
+Use constant variable instead of hard-coded string,1
+Refactor common calculations,1
+Move variable declaration closer to its usage,1
+Use Collections.singletonList() for single element addition,1
+Extract fragment processing logic into a separate method,1
+Use isEmpty() method instead of comparing to 0,1
+Use explicit type for the context variable,1
+Remove unnecessary nested if statements,1
+Merge parallel graphs,1
+Extract condition into separate method,1
+Use an else statement instead of empty line,1
+Use enhanced for loop instead of manual array copy,1
+Use try-with-resources for HashSet iteration,1
+Avoid redundant hashmap access,1
+Apply early return,1
+Extract duplicated code into separate method,1
+Use isEmpty() method to check if HashMap is empty,1
+Handle Index and Num types separately,1
+Use explicit import statements instead of wildcard imports,1
+Use constants instead of magic numbers for character increment,1
+Inline variable declarations,1
+Use type inference for loop variable,1
+Remove unnecessary null checks,1
+Use try-with-resources for the Scanner,1
+Combine the two if conditions with the same action,1
+Add support for additional arguments,1
+Use List interface instead of Vector implementation,1
+Use diamond inference for Map declarations,1
+Rename 'updateCommitData' method to better reflect its purpose,1
+Remove unnecessary catch and finally blocks,1
+Use synchronization on a specific lock object instead of 'this',1
+Use method references,1
+Combine consecutive 'if' conditions,1
+Use variable name that describes its purpose,1
+Use isEmpty() method instead of size() check,1
+Merge repetitive code blocks,1
+Use List instead of ArrayList,1
+Improve code formatting,1
+Simplify nested if-else conditions,1
+Use try-with-resources statement for InputStream,1
+Use computeIfAbsent(),1
+Use a more descriptive variable name for 'ccN',1
+Move creation of projectNames within computeStats method,1
+Replace System.out.println with logging framework,1
+Use a foreach loop to iterate over the body of md.getBody().,1
+Refactor if-else statements for readability,1
+Extract method to get function name,1
+Use enhanced for loop instead of keySet() and get(),1
+Use isEmpty() instead of comparing with null,1
+Use enhanced for loop for iterating over projectNames,1
+Use removeIf() method,1
+Extract common code into a separate method,1
+Use constants for the queue size calculation,1
+Move labelLiterals initialization outside loop,1
+Use 'enum' for PDGDataEdge types,1
+Extract common logic and reuse,1
+Use 'contains' method to check if a set contains an element,1
+Move the context.addScope() and context.removeScope() inside the PDGGraph constructor,1
+Combine similar code lines for readability,1
+Avoid magic numbers,1
+Use a loop to build PDGGraph,1
+Remove redundant assignment,1
+Use ternary operator instead of if statements,1
+Extract mapping logic into separate method,1
+Use containsKey() instead of get() != null,1
+Avoid excessive nesting,1
+Modify assertions to use specific assertion methods,1
+Use parameterized types for the List,1
+Improve readability,1
+Use generic types for HashMap and HashSet,1
+Use method reference for 'matchesM',1
+Use HashSet directly,1
+Handle InterruptedException,1
+Use removeIf() instead of removing elements in loop,1
+Avoid unnecessary ArrayList and conversion,1
+Use switch statement for node type,1
+Use a more descriptive variable name for 'node',1
+Use switch statement for node change type,1
+Use foreach loop for iterating over characters in a string,1
+Use clearer variable names,1
+Optimize StringBuilder usage,1
+Remove redundant code,1
+Use specific exception instead of catching all exceptions,1
+Avoid unnecessary typecasting,1
+Use stream API instead of loop,1
+2. Avoid unnecessary array creation,1
+3. Extract common code into a method,1
+Use for-each loop,1
+Avoid multiple instanceof checks for Call value,1
+Simplify conditions within if statements,1
+Use generic types,1
+Handle exceptions explicitly,1
+Use enums or constants instead of 'true' and 'false',1
+Avoid redundant call to buildPDG() method,1
+5. Use Collections.sort() instead of binarySearch() to maintain sorted list,1
+Extract common similarity calculation logic into a separate method,1
+Use constants for default values,1
+Avoid unnecessary recursive calls in inner classes,1
+Use ternary operator,1
+Extract method for creating GROUMEdges,1
+Use named constants for policy type,1
+3. Use Iterator to remove elements,1
+Add exception handling to the finally block,1
+Remove unnecessary finally block,1
+Prefer explicit type casting,1
+Extract commit information retrieval to a separate method,1
+Use addAll() method,1
+Remove redundant method call,1
+Use equals() method for String comparison,1
+Use StringBuilder for concatenating characters,1
+Reuse node properties,1
+Use a more descriptive variable name for the list of nodes to remove,1
+Use try-with-resources to automatically close the ByteArrayInputStream,1
+Use foreach loop instead of iterator,1
+Use enhanced for loop for iterating through defs,1
+Use enhanced for loop instead of manual element removal,1
+Add parameter type annotations,1
+Remove unused else if conditions,1
+Use try-with-resources for closing streams,1
+Remove redundant empty print statement,1
+Remove unnecessary empty print statement,1
+Extract common logic into separate methods,1
+Add comments for better documentation,1
+Avoid duplicate addition of commonSize and totalSize,1
+Use variable names that are more descriptive,1
+Use for-each loop instead of for loop,1
+Improve null check,1
+Combine variable declarations,1
+Extract regex patterns into constants,1
+Use more descriptive variable names for arrays,1
+Use local variable for fragmentOfGraph.size(),1
+Add null checks for context and astNode,1
+Extract method for local variable creation,1
+Extract condition into a separate method,1
+Improve code readability by extracting the logic within the nested loop to separate methods,1
+Use TimeUnit constant for keepAliveTimeUnit,1
+Refactor code to improve readability,1
+Use type inference,1
+Remove unnecessary breaks,1
+Move code block into a separate method,1
+Use foreach loop instead of traditional for loop,1
+Move creation of permutationsOfAPIs within createHashMap method,1
+Use StringBuilder instead of StringBuffer,1
+Use try-with-resources for GitConnector,1
+Use constants for property names,1
+Remove redundant cast,1
+4. Extract code duplication into a method,1
+Use Map.computeIfAbsent(),1
+Extract code segments into separate methods,1
+Extract nested loops into separate methods,1
+6. Use Comparator.comparingInt() for sorting,1
+Extract method for code string extraction,1
+Remove redundant try-catch block,1
+Use computeIfAbsent() method,1
+Add method documentation,1
+Avoid catching general Exception,1
+Improve code clarity,1
+Rename the method parameters for clarity,1
+Use variable instead of redundant code,1
+Use a switch statement instead of multiple if-else conditions,1
+Replace nested loops with stream operations,1
+Use StringBuilder instead of concatenating strings,1
+Use isEmpty() method to check if the graph is empty,1
+Add comments for better code understanding,1
+Move the code for building PDGGraph and DotGraph into separate methods,1
+Optimize the for-loop,1
+Use enhanced for loop instead of entrySet(),1
+Use meaningful variable names in for-each loops,1
+Consider using StringBuilder instead of String concatenation,1
+Simplify condition for checking exp type,1
+Merge loop condition and assignment,1
+Replace ArrayList with Set,1
+Combine common code,1
+Avoid unnecessary object creation,1
+Handle null input gracefully,1
+Use a more descriptive variable name for ConcreatePythonParser,1
+Replace magic number,1
+Use a StringBuilder for concatenation,1
+Remove unnecessary loop,1
+Initialize HashSet with expected size,1
+Use diamond operator for object instantiation,1
+Use switch statement instead of multiple else-if conditions,1
+Simplify stream operations,1
+Avoid using string concatenation in loop,1
+Use StringBuilder instead of concatenation,1
+Improve exception handling,1
+Extract code into separate methods for better modularity,1
+Use 'anyMatch' instead of manual iteration,1
+Use containsKey only once,1
+Refactor repeated code for updating parent references,1
+Extract method for creating GROUMNodes,1
+Remove unnecessary variable assignment,1
+Use enhanced for loop instead of for loop,1
+Remove unnecessary 'root_0' initialization,1
+Extract code for removing dependency edges into a separate method,1
+Use try-with-resources for the BlockingQueue,1
+Use braces for if statements,1
+Initialize HashSet with intersection,1
+Use compound assignment operator,1
+Extract method to get github location,1
+Handle Optional case to avoid NoSuchElementException,1
+Extract method for processing tuples,1
+Move try-catch block closer to the code it applies to,1
+Print the output directory path after dot file creation,1
+Use StringBuilder instead of string concatenation,1
+Apply proper naming conventions,1
+Use try-with-resources for InputStream,1
+Use char literal instead of integer operation,1
+Handle unhandled edge types gracefully,1
+Rename variable 'key' to 'somekey' in the for loop,1
+Use a variable to store the merged PDGGraph,1
+Update variable names for clarity,1
+Use removeIf() method instead of nested loops,1
+Use enhanced for loop for iterating ns,1
+Use a constant for the value 1000,1
+Replace for-each loops with stream operations,1
+Use variable type inference,1
+Use boolean flag instead of nested loop,1
+Remove unnecessary 'finally' block,1
+Use interface instead of specific implementation,1
+Use switch expressions,1
+Use isEmpty() instead of size() comparisons,1
+Extract stream filter condition into a separate method,1
+Use try-with-resources for HashSet creation,1
+2. Use enhanced for loop,1
+Use enhanced for loop for iterating over nodes,1
+Initialize 'num_commits' outside the loop,1
+Use removeIf instead of for loop,1
+Use 'List' instead of 'ArrayList' for variable declaration,1
+Initialize HashSet with capacity,1
+Use list size variable instead of pgs.length,1
+Use isEmpty() instead of checking size,1
+Use contains() instead of !contains(null),1
+Extract method for computeSimilarity,1
